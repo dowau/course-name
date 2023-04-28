@@ -2,6 +2,10 @@
 ### This is H3 header
 ###### This is H6 header
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 ```python
 print("Hello world")
 ```
